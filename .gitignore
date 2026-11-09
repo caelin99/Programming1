@@ -1,0 +1,8 @@
+.vscode*/
+.classroom50.yaml
+.github/
+.idea/
+*.props
+.git/
+.vs/
+*.cache

@@ -1,0 +1,17 @@
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/bin/Debug/net8.0/Opgave2.exe
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/bin/Debug/net8.0/Opgave2.deps.json
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/bin/Debug/net8.0/Opgave2.runtimeconfig.json
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/bin/Debug/net8.0/Opgave2.dll
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/bin/Debug/net8.0/Opgave2.pdb
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/Opgave2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/Opgave2.AssemblyInfoInputs.cache
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/Opgave2.AssemblyInfo.cs
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/Opgave2.csproj.CoreCompileInputs.cache
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/Opgave2.dll
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/refint/Opgave2.dll
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/Opgave2.pdb
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/Opgave2.genruntimeconfig.cache
+C:/Users/jeroen/source/repos/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/ref/Opgave2.dll
+/home/caelin/School/Programmeren/tentamen-prog1/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/Opgave2.dll
+/home/caelin/School/Programmeren/tentamen-prog1/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/refint/Opgave2.dll
+/home/caelin/School/Programmeren/tentamen-prog1/Programmeren1-hertentamen/Opgave2/obj/Debug/net8.0/Opgave2.pdb
